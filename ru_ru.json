@@ -1,0 +1,6 @@
+{
+  "block.tentnets.anti_drone_net": "Антидроновая сеть",
+  "block.tentnets.camo_net": "Маскировочная сеть",
+  "item.tentnets.thermal_vision": "Тепловизор",
+  "itemGroup.tentnets": "TentNets"
+}

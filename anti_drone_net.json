@@ -1,0 +1,184 @@
+{
+  "variants": {
+    "facing=up,damage=0": {
+      "model": "tentnets:block/anti_drone_net_top_0"
+    },
+    "facing=up,damage=1": {
+      "model": "tentnets:block/anti_drone_net_top_0"
+    },
+    "facing=up,damage=2": {
+      "model": "tentnets:block/anti_drone_net_top_0"
+    },
+    "facing=up,damage=3": {
+      "model": "tentnets:block/anti_drone_net_top_1"
+    },
+    "facing=up,damage=4": {
+      "model": "tentnets:block/anti_drone_net_top_1"
+    },
+    "facing=up,damage=5": {
+      "model": "tentnets:block/anti_drone_net_top_1"
+    },
+    "facing=up,damage=6": {
+      "model": "tentnets:block/anti_drone_net_top_2"
+    },
+    "facing=up,damage=7": {
+      "model": "tentnets:block/anti_drone_net_top_2"
+    },
+    "facing=up,damage=8": {
+      "model": "tentnets:block/anti_drone_net_top_2"
+    },
+    "facing=up,damage=9": {
+      "model": "tentnets:block/anti_drone_net_top_3"
+    },
+    "facing=north,damage=0": {
+      "model": "tentnets:block/anti_drone_net_side_0"
+    },
+    "facing=north,damage=1": {
+      "model": "tentnets:block/anti_drone_net_side_0"
+    },
+    "facing=north,damage=2": {
+      "model": "tentnets:block/anti_drone_net_side_0"
+    },
+    "facing=north,damage=3": {
+      "model": "tentnets:block/anti_drone_net_side_1"
+    },
+    "facing=north,damage=4": {
+      "model": "tentnets:block/anti_drone_net_side_1"
+    },
+    "facing=north,damage=5": {
+      "model": "tentnets:block/anti_drone_net_side_1"
+    },
+    "facing=north,damage=6": {
+      "model": "tentnets:block/anti_drone_net_side_2"
+    },
+    "facing=north,damage=7": {
+      "model": "tentnets:block/anti_drone_net_side_2"
+    },
+    "facing=north,damage=8": {
+      "model": "tentnets:block/anti_drone_net_side_2"
+    },
+    "facing=north,damage=9": {
+      "model": "tentnets:block/anti_drone_net_side_3"
+    },
+    "facing=east,damage=0": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 90
+    },
+    "facing=east,damage=1": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 90
+    },
+    "facing=east,damage=2": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 90
+    },
+    "facing=east,damage=3": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 90
+    },
+    "facing=east,damage=4": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 90
+    },
+    "facing=east,damage=5": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 90
+    },
+    "facing=east,damage=6": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 90
+    },
+    "facing=east,damage=7": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 90
+    },
+    "facing=east,damage=8": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 90
+    },
+    "facing=east,damage=9": {
+      "model": "tentnets:block/anti_drone_net_side_3",
+      "y": 90
+    },
+    "facing=south,damage=0": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 180
+    },
+    "facing=south,damage=1": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 180
+    },
+    "facing=south,damage=2": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 180
+    },
+    "facing=south,damage=3": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 180
+    },
+    "facing=south,damage=4": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 180
+    },
+    "facing=south,damage=5": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 180
+    },
+    "facing=south,damage=6": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 180
+    },
+    "facing=south,damage=7": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 180
+    },
+    "facing=south,damage=8": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 180
+    },
+    "facing=south,damage=9": {
+      "model": "tentnets:block/anti_drone_net_side_3",
+      "y": 180
+    },
+    "facing=west,damage=0": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 270
+    },
+    "facing=west,damage=1": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 270
+    },
+    "facing=west,damage=2": {
+      "model": "tentnets:block/anti_drone_net_side_0",
+      "y": 270
+    },
+    "facing=west,damage=3": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 270
+    },
+    "facing=west,damage=4": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 270
+    },
+    "facing=west,damage=5": {
+      "model": "tentnets:block/anti_drone_net_side_1",
+      "y": 270
+    },
+    "facing=west,damage=6": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 270
+    },
+    "facing=west,damage=7": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 270
+    },
+    "facing=west,damage=8": {
+      "model": "tentnets:block/anti_drone_net_side_2",
+      "y": 270
+    },
+    "facing=west,damage=9": {
+      "model": "tentnets:block/anti_drone_net_side_3",
+      "y": 270
+    }
+  }
+}

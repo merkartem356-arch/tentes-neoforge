@@ -1,0 +1,6 @@
+{
+  "block.tentnets.anti_drone_net": "Anti-Drone Net",
+  "block.tentnets.camo_net": "Camouflage Net",
+  "item.tentnets.thermal_vision": "Thermal Vision",
+  "itemGroup.tentnets": "TentNets"
+}
